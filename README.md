@@ -1,4 +1,4 @@
-# Quiz
+# Quiz - JS
  Quiz: Quidditch Cup
 In the Harry Potter novels, children attending the Hogwarts School of Witchcraft and Wizardry belong to one of four houses: Gryffindor, Hufflepuff, Ravenclaw, or Slytherin. Each year, the houses assemble a Quidditch team of seven players to compete for the coveted Quidditch Cup.
 
